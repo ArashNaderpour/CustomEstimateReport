@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEstimateReport", "CustomEstimateReport\CustomEstimateReport.csproj", "{DB944257-E5AC-42FD-886E-21BE381B7947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB944257-E5AC-42FD-886E-21BE381B7947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB944257-E5AC-42FD-886E-21BE381B7947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB944257-E5AC-42FD-886E-21BE381B7947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB944257-E5AC-42FD-886E-21BE381B7947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6340B80D-44FA-4E09-A9A4-AFA1732DE96C}
+	EndGlobalSection
+EndGlobal
